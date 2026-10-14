@@ -1,0 +1,39 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:80567012-e9e9-5948-9f73-569f2bfa7621",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T17:15:46Z",
+  "component": {
+   "type": "application",
+   "name": "SOLPY",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/SOLPY@83b357604d34",
+   "purl": "pkg:generic/anticloud/SOLPY@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "sha_unverified": true
+}
